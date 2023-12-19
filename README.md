@@ -27,3 +27,7 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 * #### **Phone:** + (1) 914-415-9578
 
 * #### **GitHub Profile:** Jetnik Syla
+
+## Project Screenshot
+
+![Alt text](password_generator.jpg)
