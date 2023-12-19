@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Meta tags for character set and viewport settings -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Linking external stylesheet -->
+    <link rel="stylesheet" href="./assets/style.css" />
+
+    <!-- Page title -->
+    <title>Password Generator</title>
+  </head>
+  <body>
+    <!-- Header section with the main title -->
+    <header>
+      <h1>Password Generator</h1>
+    </header>
+
+    <!-- Main content section -->
+    <main>
+      <!-- Section title -->
+      <h2>Generate a Password</h2>
+
+      <!-- Input field and button for password generation -->
+      <section>
+        <textarea
+          id="Password"
+          placeholder="Generated password will appear here..."
+          readonly
+        ></textarea>
+        <button id="generatePassword" onclick="generatePassword()">
+          Generate Password
+        </button>
+      </section>
+    </main>
+    <script src="./script.js"></script>
+  </body>
+</html>
