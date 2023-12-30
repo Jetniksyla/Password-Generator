@@ -30,4 +30,4 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 
 ## Project Screenshot
 
-![Alt text](password_generator.jpg)
+![!\[Alt text\](password_generator.jpg)](assets/password_generator.jpg)
