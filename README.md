@@ -28,6 +28,10 @@ For inquiries or collaboration opportunities, please feel free to reach out to *
 
 * #### **GitHub Profile:** Jetnik Syla
 
+### Password Generator
+
+Check out our password generator application [here](https://jetniksyla.github.io/Password-Generator-JS/). Generate strong and secure passwords easily!
+
 ## Project Screenshot
 
 ![!\[Alt text\](password_generator.jpg)](assets/password_generator.jpg)
