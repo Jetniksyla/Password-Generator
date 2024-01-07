@@ -24,13 +24,7 @@ function generatePassword() {
     !includeSpecialCharacters
   ) {
     alert("At least one character type should be selected.");
-    return {
-    // Ask the user for input or set default values
-    includeLowercase: confirm("Include lowercase characters?"),
-    includeUppercase: confirm("Include uppercase characters?"),
-    includeNumbers: confirm("Include numbers?"),
-    includeSpecialCharacters:  confirm("Include special characters?")
-  }
+    return generatePassword();
   }
 
   // Generate a random password based on user preferences
